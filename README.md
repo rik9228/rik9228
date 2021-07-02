@@ -1,4 +1,4 @@
-# Hi there
+# Hi there, I`m Riku Morishita.
 
 Hello！ My name is Riku Morishita.
 I'm trying to become a front-end developer.
@@ -21,5 +21,14 @@ My skillset of All Language or Framework etc is ...
 * gulp
 
 -----------------------
+
+## other
+
+:office: I am currently working as WebSite Developer of a company in-house
+
+:balloon: Hobby: :musical_note: music（I want to play a drum !!） , :clapper: movie , vitinig coffee shop :coffee: etc
+
+📫  How to reach me: @GT04b
+
 
 Thank you for reading!!
