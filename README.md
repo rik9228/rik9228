@@ -26,7 +26,7 @@ My skillset of All Language or Framework etc is ...
 
 :office: I am currently working as WebSite Developer of a company in-house
 
-:balloon: Hobby: :musical_note: music（I want to play a drum !!） , :clapper: movie , vitinig coffee shop :coffee: etc
+:balloon: Hobby: :musical_note: music（I want to play a drum !!） , :clapper: movie , visting coffee shop :coffee: etc
 
 📫  How to reach me: @GT04b
 
