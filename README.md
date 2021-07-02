@@ -32,3 +32,11 @@ My skillset of All Language or Framework etc is ...
 
 
 Thank you for reading!!
+
+
+<a href="https://github.com/rik9228">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=rik9228&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/rik9228">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rik9228&layout=compact&theme=dracula" />
+</a>
