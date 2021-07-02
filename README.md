@@ -3,7 +3,7 @@
 Hello！ My name is Riku Morishita.
 I'm trying to become a front-end developer.
 
-I often use Javascript. :muscle:
+I often use Javascript. :muscle::fire::fire::fire:
 
 Also I'm studying Vue.js too.
 
