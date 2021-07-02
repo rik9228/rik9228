@@ -1,0 +1,2 @@
+# rikuMorishita
+My personal repository
