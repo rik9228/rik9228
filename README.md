@@ -13,7 +13,7 @@ My skillset of All Language or Framework etc is ...
 
 * HTML 
 * CSS（SCSS）
-* Javascript（jQuery）
+* Javascript
 * Vue.js
 * PHP
 * Laravel
