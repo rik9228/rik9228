@@ -5,7 +5,7 @@ I'm trying to become a front-end developer.
 
 I often use Javascript. :muscle::fire::fire::fire:
 
-Also I'm studying Vue.js too.
+Also I'm studying React.js too.
 
 -----------------------
 
@@ -15,6 +15,7 @@ My skillset of All Language or Framework etc is ...
 * CSS（SCSS）
 * Javascript
 * Vue.js
+* React.js
 * PHP
 * Laravel
 * WordPress
